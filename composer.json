@@ -1,0 +1,25 @@
+{
+    "name": "openai",
+    "description": "OpenAI",
+    "homepage": "https://github.com/ngphp/openai",
+    "keywords": [
+        "php",
+        "jwt",
+        "json web token"
+    ],
+    "authors": [
+        {
+            "name": "Vedat Yıldırım",
+            "email": "vedatyildirimofficial@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ngphp\\": "src/"
+        }
+    }
+}
